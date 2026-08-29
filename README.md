@@ -65,7 +65,7 @@ New folder (3)/
 
 ```bash
 # 1. Navigate to the Java folder
-cd "c:\Users\alvee\Desktop\New folder (3)\LMS_Java"
+cd "Object_Oriented_Design_Pattern_Lab\LMS_Java\"
 
 # 2. Compile all Java files
 javac *.java
